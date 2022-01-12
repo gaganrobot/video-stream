@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/user4cat"><img src="https://github.com/gaganrobot/video-stream"></a></p>
+<p align="center"><a href="https://t.me/user4cat"><img src="https://telegra.ph/file/908e2f5ddafaa8047e2f5.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
